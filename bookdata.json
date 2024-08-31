@@ -1,0 +1,58 @@
+[
+    {
+        "title": "The Lost City",
+        "author": "Jane Austen",
+        "genre": "Adventure",
+        "year": 1825,
+        "coverImage": "https://m.media-amazon.com/images/I/91FAKZ0-MTL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Galactic Warriors",
+        "author": "Isaac Asimov",
+        "genre": "Science Fiction",
+        "year": 1950,
+        "coverImage": "https://ik.imagekit.io/storybird/images/d5216417-e082-4dfa-93c1-f4023f145a76/0_948882166.png"
+    },
+    {
+        "title": "Secrets of the Past",
+        "author": "Dan Brown",
+        "genre": "Thriller",
+        "year": 2009,
+        "coverImage": "https://static.wixstatic.com/media/97cc02_d7bee41c9cda4d7b8fe94de1f0a74ee6~mv2.jpg/v1/fill/w_500,h_750,al_c,q_85,enc_auto/97cc02_d7bee41c9cda4d7b8fe94de1f0a74ee6~mv2.jpg"
+    },
+    {
+        "title": "Sunset in Venice",
+        "author": "Paulo Coelho",
+        "genre": "Romance",
+        "year": 2005,
+        "coverImage": "https://www.thelostmumbaikar.com/wp-content/uploads/2021/05/Untitled-2-3.jpg"
+    },
+    {
+        "title": "Winds of Change",
+        "author": "Margaret Atwood",
+        "genre": "Dystopian",
+        "year": 1985,
+        "coverImage": "https://m.media-amazon.com/images/I/91beAloWvxL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "title": "Future Shock",
+        "author": "Alvin Toffler",
+        "genre": "Non-Fiction",
+        "year": 1970,
+        "coverImage": "https://upload.wikimedia.org/wikipedia/en/5/51/Future_shock.png"
+    },
+    {
+        "title": "The Last Detective",
+        "author": "Robert Crais",
+        "genre": "Mystery",
+        "year": 2003,
+        "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388177599i/241936.jpg"
+    },
+    {
+        "title": "Under the Stars",
+        "author": "Emily Brontë",
+        "genre": "Fantasy",
+        "year": 1847,
+        "coverImage": "https://m.media-amazon.com/images/I/714vH15c1BL._AC_UF1000,1000_QL80_.jpg"
+    }
+]
